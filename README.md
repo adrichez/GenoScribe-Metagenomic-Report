@@ -163,7 +163,7 @@ Este GIF muestra la **estructura y funcionalidad del informe**, incluyendo gráf
 
 ## 🔗 Informe Web
 
-Consulta la versión web interactiva del informe de ejemplo: 👉 [https://genoscribe.github.io/metagenomic-example](https://genoscribe.github.io/metagenomic-example)
+Consulta la versión web interactiva del informe de ejemplo: 👉 [https://adrichez.github.io/GenoScribe-Metagenomic-Report/](https://adrichez.github.io/GenoScribe-Metagenomic-Report/)
 
 **Objetivo principal:** que el informe esté disponible en la web para su **consulta y demostración**.
 
