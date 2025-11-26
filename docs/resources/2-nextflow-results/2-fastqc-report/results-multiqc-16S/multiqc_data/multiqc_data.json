@@ -3,38 +3,38 @@
     "report_data_sources": {
         "FastQC": {
             "all_sections": {
-                "NGS001-23_16S_41_S6_L001_R1_001": "/workspace/GenoScribe/2-pipelines/3-metagenomic/work/1f/0b8a5bd86faa6f267ad6234299d4f2/Pre_fastqc_results/NGS001-23_16S_41_S6_L001_R1_001_fastqc.zip",
-                "NGS001-23_16S_41_S6_L001_R2_001": "/workspace/GenoScribe/2-pipelines/3-metagenomic/work/1f/0b8a5bd86faa6f267ad6234299d4f2/Pre_fastqc_results/NGS001-23_16S_41_S6_L001_R2_001_fastqc.zip",
-                "NGS001-23_16S_42_S12_L001_R1_001": "/workspace/GenoScribe/2-pipelines/3-metagenomic/work/1f/0b8a5bd86faa6f267ad6234299d4f2/Pre_fastqc_results/NGS001-23_16S_42_S12_L001_R1_001_fastqc.zip",
-                "NGS001-23_16S_42_S12_L001_R2_001": "/workspace/GenoScribe/2-pipelines/3-metagenomic/work/1f/0b8a5bd86faa6f267ad6234299d4f2/Pre_fastqc_results/NGS001-23_16S_42_S12_L001_R2_001_fastqc.zip",
-                "NGS001-23_16S_43_S18_L001_R1_001": "/workspace/GenoScribe/2-pipelines/3-metagenomic/work/1f/0b8a5bd86faa6f267ad6234299d4f2/Pre_fastqc_results/NGS001-23_16S_43_S18_L001_R1_001_fastqc.zip",
-                "NGS001-23_16S_43_S18_L001_R2_001": "/workspace/GenoScribe/2-pipelines/3-metagenomic/work/1f/0b8a5bd86faa6f267ad6234299d4f2/Pre_fastqc_results/NGS001-23_16S_43_S18_L001_R2_001_fastqc.zip",
-                "NGS001-23_16S_44_S24_L001_R1_001": "/workspace/GenoScribe/2-pipelines/3-metagenomic/work/1f/0b8a5bd86faa6f267ad6234299d4f2/Pre_fastqc_results/NGS001-23_16S_44_S24_L001_R1_001_fastqc.zip",
-                "NGS001-23_16S_44_S24_L001_R2_001": "/workspace/GenoScribe/2-pipelines/3-metagenomic/work/1f/0b8a5bd86faa6f267ad6234299d4f2/Pre_fastqc_results/NGS001-23_16S_44_S24_L001_R2_001_fastqc.zip",
-                "NGS001-23_16S_45_S30_L001_R1_001": "/workspace/GenoScribe/2-pipelines/3-metagenomic/work/1f/0b8a5bd86faa6f267ad6234299d4f2/Pre_fastqc_results/NGS001-23_16S_45_S30_L001_R1_001_fastqc.zip",
-                "NGS001-23_16S_45_S30_L001_R2_001": "/workspace/GenoScribe/2-pipelines/3-metagenomic/work/1f/0b8a5bd86faa6f267ad6234299d4f2/Pre_fastqc_results/NGS001-23_16S_45_S30_L001_R2_001_fastqc.zip",
-                "NGS001-23_16S_46_S36_L001_R1_001": "/workspace/GenoScribe/2-pipelines/3-metagenomic/work/1f/0b8a5bd86faa6f267ad6234299d4f2/Pre_fastqc_results/NGS001-23_16S_46_S36_L001_R1_001_fastqc.zip",
-                "NGS001-23_16S_46_S36_L001_R2_001": "/workspace/GenoScribe/2-pipelines/3-metagenomic/work/1f/0b8a5bd86faa6f267ad6234299d4f2/Pre_fastqc_results/NGS001-23_16S_46_S36_L001_R2_001_fastqc.zip",
-                "NGS001-23_16S_47_S42_L001_R1_001": "/workspace/GenoScribe/2-pipelines/3-metagenomic/work/1f/0b8a5bd86faa6f267ad6234299d4f2/Pre_fastqc_results/NGS001-23_16S_47_S42_L001_R1_001_fastqc.zip",
-                "NGS001-23_16S_47_S42_L001_R2_001": "/workspace/GenoScribe/2-pipelines/3-metagenomic/work/1f/0b8a5bd86faa6f267ad6234299d4f2/Pre_fastqc_results/NGS001-23_16S_47_S42_L001_R2_001_fastqc.zip",
-                "NGS001-23_16S_48_S48_L001_R1_001": "/workspace/GenoScribe/2-pipelines/3-metagenomic/work/1f/0b8a5bd86faa6f267ad6234299d4f2/Pre_fastqc_results/NGS001-23_16S_48_S48_L001_R1_001_fastqc.zip",
-                "NGS001-23_16S_48_S48_L001_R2_001": "/workspace/GenoScribe/2-pipelines/3-metagenomic/work/1f/0b8a5bd86faa6f267ad6234299d4f2/Pre_fastqc_results/NGS001-23_16S_48_S48_L001_R2_001_fastqc.zip",
-                "NGS069-23_16S_29_S42_L001_R1_001": "/workspace/GenoScribe/2-pipelines/3-metagenomic/work/1f/0b8a5bd86faa6f267ad6234299d4f2/Pre_fastqc_results/NGS069-23_16S_29_S42_L001_R1_001_fastqc.zip",
-                "NGS069-23_16S_29_S42_L001_R2_001": "/workspace/GenoScribe/2-pipelines/3-metagenomic/work/1f/0b8a5bd86faa6f267ad6234299d4f2/Pre_fastqc_results/NGS069-23_16S_29_S42_L001_R2_001_fastqc.zip",
-                "NGS069-23_16S_30_S50_L001_R1_001": "/workspace/GenoScribe/2-pipelines/3-metagenomic/work/1f/0b8a5bd86faa6f267ad6234299d4f2/Pre_fastqc_results/NGS069-23_16S_30_S50_L001_R1_001_fastqc.zip",
-                "NGS069-23_16S_30_S50_L001_R2_001": "/workspace/GenoScribe/2-pipelines/3-metagenomic/work/1f/0b8a5bd86faa6f267ad6234299d4f2/Pre_fastqc_results/NGS069-23_16S_30_S50_L001_R2_001_fastqc.zip",
-                "NGS069-23_16S_31_S59_L001_R1_001": "/workspace/GenoScribe/2-pipelines/3-metagenomic/work/1f/0b8a5bd86faa6f267ad6234299d4f2/Pre_fastqc_results/NGS069-23_16S_31_S59_L001_R1_001_fastqc.zip",
-                "NGS069-23_16S_31_S59_L001_R2_001": "/workspace/GenoScribe/2-pipelines/3-metagenomic/work/1f/0b8a5bd86faa6f267ad6234299d4f2/Pre_fastqc_results/NGS069-23_16S_31_S59_L001_R2_001_fastqc.zip",
-                "NGS069-23_16S_32_S68_L001_R1_001": "/workspace/GenoScribe/2-pipelines/3-metagenomic/work/1f/0b8a5bd86faa6f267ad6234299d4f2/Pre_fastqc_results/NGS069-23_16S_32_S68_L001_R1_001_fastqc.zip",
-                "NGS069-23_16S_32_S68_L001_R2_001": "/workspace/GenoScribe/2-pipelines/3-metagenomic/work/1f/0b8a5bd86faa6f267ad6234299d4f2/Pre_fastqc_results/NGS069-23_16S_32_S68_L001_R2_001_fastqc.zip",
-                "NGS069-23_16S_33_S5_L001_R1_001": "/workspace/GenoScribe/2-pipelines/3-metagenomic/work/1f/0b8a5bd86faa6f267ad6234299d4f2/Pre_fastqc_results/NGS069-23_16S_33_S5_L001_R1_001_fastqc.zip",
-                "NGS069-23_16S_33_S5_L001_R2_001": "/workspace/GenoScribe/2-pipelines/3-metagenomic/work/1f/0b8a5bd86faa6f267ad6234299d4f2/Pre_fastqc_results/NGS069-23_16S_33_S5_L001_R2_001_fastqc.zip",
-                "NGS069-23_16S_34_S14_L001_R1_001": "/workspace/GenoScribe/2-pipelines/3-metagenomic/work/1f/0b8a5bd86faa6f267ad6234299d4f2/Pre_fastqc_results/NGS069-23_16S_34_S14_L001_R1_001_fastqc.zip",
-                "NGS069-23_16S_34_S14_L001_R2_001": "/workspace/GenoScribe/2-pipelines/3-metagenomic/work/1f/0b8a5bd86faa6f267ad6234299d4f2/Pre_fastqc_results/NGS069-23_16S_34_S14_L001_R2_001_fastqc.zip",
-                "NGS069-23_16S_35_S23_L001_R1_001": "/workspace/GenoScribe/2-pipelines/3-metagenomic/work/1f/0b8a5bd86faa6f267ad6234299d4f2/Pre_fastqc_results/NGS069-23_16S_35_S23_L001_R1_001_fastqc.zip",
-                "NGS069-23_16S_35_S23_L001_R2_001": "/workspace/GenoScribe/2-pipelines/3-metagenomic/work/1f/0b8a5bd86faa6f267ad6234299d4f2/Pre_fastqc_results/NGS069-23_16S_35_S23_L001_R2_001_fastqc.zip",
-                "NGS069-23_16S_36_S32_L001_R1_001": "/workspace/GenoScribe/2-pipelines/3-metagenomic/work/1f/0b8a5bd86faa6f267ad6234299d4f2/Pre_fastqc_results/NGS069-23_16S_36_S32_L001_R1_001_fastqc.zip",
-                "NGS069-23_16S_36_S32_L001_R2_001": "/workspace/GenoScribe/2-pipelines/3-metagenomic/work/1f/0b8a5bd86faa6f267ad6234299d4f2/Pre_fastqc_results/NGS069-23_16S_36_S32_L001_R2_001_fastqc.zip"
+                "NGS001-23_16S_41_S6_L001_R1_001": "/workspace/GenoScribe/2-pipelines/3-metagenomic/work/27/36be3c8eccf93bbec97e06f50e73cd/Pre_fastqc_results/NGS001-23_16S_41_S6_L001_R1_001_fastqc.zip",
+                "NGS001-23_16S_41_S6_L001_R2_001": "/workspace/GenoScribe/2-pipelines/3-metagenomic/work/27/36be3c8eccf93bbec97e06f50e73cd/Pre_fastqc_results/NGS001-23_16S_41_S6_L001_R2_001_fastqc.zip",
+                "NGS001-23_16S_42_S12_L001_R1_001": "/workspace/GenoScribe/2-pipelines/3-metagenomic/work/27/36be3c8eccf93bbec97e06f50e73cd/Pre_fastqc_results/NGS001-23_16S_42_S12_L001_R1_001_fastqc.zip",
+                "NGS001-23_16S_42_S12_L001_R2_001": "/workspace/GenoScribe/2-pipelines/3-metagenomic/work/27/36be3c8eccf93bbec97e06f50e73cd/Pre_fastqc_results/NGS001-23_16S_42_S12_L001_R2_001_fastqc.zip",
+                "NGS001-23_16S_43_S18_L001_R1_001": "/workspace/GenoScribe/2-pipelines/3-metagenomic/work/27/36be3c8eccf93bbec97e06f50e73cd/Pre_fastqc_results/NGS001-23_16S_43_S18_L001_R1_001_fastqc.zip",
+                "NGS001-23_16S_43_S18_L001_R2_001": "/workspace/GenoScribe/2-pipelines/3-metagenomic/work/27/36be3c8eccf93bbec97e06f50e73cd/Pre_fastqc_results/NGS001-23_16S_43_S18_L001_R2_001_fastqc.zip",
+                "NGS001-23_16S_44_S24_L001_R1_001": "/workspace/GenoScribe/2-pipelines/3-metagenomic/work/27/36be3c8eccf93bbec97e06f50e73cd/Pre_fastqc_results/NGS001-23_16S_44_S24_L001_R1_001_fastqc.zip",
+                "NGS001-23_16S_44_S24_L001_R2_001": "/workspace/GenoScribe/2-pipelines/3-metagenomic/work/27/36be3c8eccf93bbec97e06f50e73cd/Pre_fastqc_results/NGS001-23_16S_44_S24_L001_R2_001_fastqc.zip",
+                "NGS001-23_16S_45_S30_L001_R1_001": "/workspace/GenoScribe/2-pipelines/3-metagenomic/work/27/36be3c8eccf93bbec97e06f50e73cd/Pre_fastqc_results/NGS001-23_16S_45_S30_L001_R1_001_fastqc.zip",
+                "NGS001-23_16S_45_S30_L001_R2_001": "/workspace/GenoScribe/2-pipelines/3-metagenomic/work/27/36be3c8eccf93bbec97e06f50e73cd/Pre_fastqc_results/NGS001-23_16S_45_S30_L001_R2_001_fastqc.zip",
+                "NGS001-23_16S_46_S36_L001_R1_001": "/workspace/GenoScribe/2-pipelines/3-metagenomic/work/27/36be3c8eccf93bbec97e06f50e73cd/Pre_fastqc_results/NGS001-23_16S_46_S36_L001_R1_001_fastqc.zip",
+                "NGS001-23_16S_46_S36_L001_R2_001": "/workspace/GenoScribe/2-pipelines/3-metagenomic/work/27/36be3c8eccf93bbec97e06f50e73cd/Pre_fastqc_results/NGS001-23_16S_46_S36_L001_R2_001_fastqc.zip",
+                "NGS001-23_16S_47_S42_L001_R1_001": "/workspace/GenoScribe/2-pipelines/3-metagenomic/work/27/36be3c8eccf93bbec97e06f50e73cd/Pre_fastqc_results/NGS001-23_16S_47_S42_L001_R1_001_fastqc.zip",
+                "NGS001-23_16S_47_S42_L001_R2_001": "/workspace/GenoScribe/2-pipelines/3-metagenomic/work/27/36be3c8eccf93bbec97e06f50e73cd/Pre_fastqc_results/NGS001-23_16S_47_S42_L001_R2_001_fastqc.zip",
+                "NGS001-23_16S_48_S48_L001_R1_001": "/workspace/GenoScribe/2-pipelines/3-metagenomic/work/27/36be3c8eccf93bbec97e06f50e73cd/Pre_fastqc_results/NGS001-23_16S_48_S48_L001_R1_001_fastqc.zip",
+                "NGS001-23_16S_48_S48_L001_R2_001": "/workspace/GenoScribe/2-pipelines/3-metagenomic/work/27/36be3c8eccf93bbec97e06f50e73cd/Pre_fastqc_results/NGS001-23_16S_48_S48_L001_R2_001_fastqc.zip",
+                "NGS069-23_16S_29_S42_L001_R1_001": "/workspace/GenoScribe/2-pipelines/3-metagenomic/work/27/36be3c8eccf93bbec97e06f50e73cd/Pre_fastqc_results/NGS069-23_16S_29_S42_L001_R1_001_fastqc.zip",
+                "NGS069-23_16S_29_S42_L001_R2_001": "/workspace/GenoScribe/2-pipelines/3-metagenomic/work/27/36be3c8eccf93bbec97e06f50e73cd/Pre_fastqc_results/NGS069-23_16S_29_S42_L001_R2_001_fastqc.zip",
+                "NGS069-23_16S_30_S50_L001_R1_001": "/workspace/GenoScribe/2-pipelines/3-metagenomic/work/27/36be3c8eccf93bbec97e06f50e73cd/Pre_fastqc_results/NGS069-23_16S_30_S50_L001_R1_001_fastqc.zip",
+                "NGS069-23_16S_30_S50_L001_R2_001": "/workspace/GenoScribe/2-pipelines/3-metagenomic/work/27/36be3c8eccf93bbec97e06f50e73cd/Pre_fastqc_results/NGS069-23_16S_30_S50_L001_R2_001_fastqc.zip",
+                "NGS069-23_16S_31_S59_L001_R1_001": "/workspace/GenoScribe/2-pipelines/3-metagenomic/work/27/36be3c8eccf93bbec97e06f50e73cd/Pre_fastqc_results/NGS069-23_16S_31_S59_L001_R1_001_fastqc.zip",
+                "NGS069-23_16S_31_S59_L001_R2_001": "/workspace/GenoScribe/2-pipelines/3-metagenomic/work/27/36be3c8eccf93bbec97e06f50e73cd/Pre_fastqc_results/NGS069-23_16S_31_S59_L001_R2_001_fastqc.zip",
+                "NGS069-23_16S_32_S68_L001_R1_001": "/workspace/GenoScribe/2-pipelines/3-metagenomic/work/27/36be3c8eccf93bbec97e06f50e73cd/Pre_fastqc_results/NGS069-23_16S_32_S68_L001_R1_001_fastqc.zip",
+                "NGS069-23_16S_32_S68_L001_R2_001": "/workspace/GenoScribe/2-pipelines/3-metagenomic/work/27/36be3c8eccf93bbec97e06f50e73cd/Pre_fastqc_results/NGS069-23_16S_32_S68_L001_R2_001_fastqc.zip",
+                "NGS069-23_16S_33_S5_L001_R1_001": "/workspace/GenoScribe/2-pipelines/3-metagenomic/work/27/36be3c8eccf93bbec97e06f50e73cd/Pre_fastqc_results/NGS069-23_16S_33_S5_L001_R1_001_fastqc.zip",
+                "NGS069-23_16S_33_S5_L001_R2_001": "/workspace/GenoScribe/2-pipelines/3-metagenomic/work/27/36be3c8eccf93bbec97e06f50e73cd/Pre_fastqc_results/NGS069-23_16S_33_S5_L001_R2_001_fastqc.zip",
+                "NGS069-23_16S_34_S14_L001_R1_001": "/workspace/GenoScribe/2-pipelines/3-metagenomic/work/27/36be3c8eccf93bbec97e06f50e73cd/Pre_fastqc_results/NGS069-23_16S_34_S14_L001_R1_001_fastqc.zip",
+                "NGS069-23_16S_34_S14_L001_R2_001": "/workspace/GenoScribe/2-pipelines/3-metagenomic/work/27/36be3c8eccf93bbec97e06f50e73cd/Pre_fastqc_results/NGS069-23_16S_34_S14_L001_R2_001_fastqc.zip",
+                "NGS069-23_16S_35_S23_L001_R1_001": "/workspace/GenoScribe/2-pipelines/3-metagenomic/work/27/36be3c8eccf93bbec97e06f50e73cd/Pre_fastqc_results/NGS069-23_16S_35_S23_L001_R1_001_fastqc.zip",
+                "NGS069-23_16S_35_S23_L001_R2_001": "/workspace/GenoScribe/2-pipelines/3-metagenomic/work/27/36be3c8eccf93bbec97e06f50e73cd/Pre_fastqc_results/NGS069-23_16S_35_S23_L001_R2_001_fastqc.zip",
+                "NGS069-23_16S_36_S32_L001_R1_001": "/workspace/GenoScribe/2-pipelines/3-metagenomic/work/27/36be3c8eccf93bbec97e06f50e73cd/Pre_fastqc_results/NGS069-23_16S_36_S32_L001_R1_001_fastqc.zip",
+                "NGS069-23_16S_36_S32_L001_R2_001": "/workspace/GenoScribe/2-pipelines/3-metagenomic/work/27/36be3c8eccf93bbec97e06f50e73cd/Pre_fastqc_results/NGS069-23_16S_36_S32_L001_R2_001_fastqc.zip"
             }
         }
     },
@@ -380,7 +380,7 @@
             }
         }
     },
-    "report_creation_date": "2025-11-07, 11:20 UTC",
+    "report_creation_date": "2025-11-26, 12:44 UTC",
     "report_plot_data": {
         "fastqc_sequence_counts_plot": {
             "id": "fastqc_sequence_counts_plot",
@@ -66436,11 +66436,11 @@
     "config_subtitle": null,
     "config_title": null,
     "config_version": "1.32",
-    "config_output_dir": "/workspace/GenoScribe/2-pipelines/3-metagenomic/work/1f/0b8a5bd86faa6f267ad6234299d4f2",
+    "config_output_dir": "/workspace/GenoScribe/2-pipelines/3-metagenomic/work/27/36be3c8eccf93bbec97e06f50e73cd",
     "config_sample_names_rename": [],
     "config_sample_names_rename_buttons": [],
     "config_analysis_dir_abs": [
-        "/workspace/GenoScribe/2-pipelines/3-metagenomic/work/1f/0b8a5bd86faa6f267ad6234299d4f2/Pre_fastqc_results"
+        "/workspace/GenoScribe/2-pipelines/3-metagenomic/work/27/36be3c8eccf93bbec97e06f50e73cd/Pre_fastqc_results"
     ],
     "report_saved_raw_data": {
         "multiqc_fastqc": {
